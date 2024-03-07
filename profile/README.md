@@ -1,12 +1,7 @@
-## Hi there 👋
+## Razroo Community 👋
 
-<!--
+Official GitHub Organization for Razroo Community members.
 
-**Here are some ideas to get you started:**
+## Why do we have this org?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Razroo Community members contribute across multiple Cloud providers and 3rd party platforms in general. By having this isolated Razroo Community Github org, we are able to have github secrets, and environment variables that are shared across all community members to allow all contributions to baked directly into the CI/CD. 
