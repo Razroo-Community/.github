@@ -1,4 +1,4 @@
-## Razroo Community 👋
+## ![razroo-community-avatar](https://github.com/Razroo-Community/.github/assets/8540141/f21d26a9-825f-48e0-a934-c6414a50473c) Razroo Community 👋
 
 Official GitHub Organization for Razroo Community members.
 
