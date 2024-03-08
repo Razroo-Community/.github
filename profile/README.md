@@ -1,6 +1,6 @@
 ## Razroo Community 👋
 
-Official GitHub Organization for Razroo Community members.
+Official GitHub Organization for Razroo Community members. Join us as we fulfill our mission of Human Collective Intelligence. Allow people to upload data seamlessly + integrate automatically. Enable humanity to share perfect quality/knowledge en masse. Read more about Human Collective Intelligence here: https://blog.razroo.com/razroo-mission-statement.  
 
 ## Why do we have this org?
 
