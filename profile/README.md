@@ -14,4 +14,4 @@ Community members are also welcome to use this space to experiment with whatever
 
 ## How To Join As A Community Architect? 
 
-For now can send an email to [Charlie Greenman](charlie@razroo.com) or reach out to Charlie Greenman on Twitter via https://twitter.com/razroo_chief.
+For now can send an email to charlie@razroo.com or reach out to Charlie Greenman on Twitter via https://twitter.com/razroo_chief.
